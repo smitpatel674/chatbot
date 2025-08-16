@@ -1,0 +1,13 @@
+flask
+flask-cors
+requests
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+beautifulsoup4
+playwright
+reportlab
+PyPDF2
+langchain
+langchain-community
