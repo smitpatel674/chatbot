@@ -11,3 +11,4 @@ reportlab
 PyPDF2
 langchain
 langchain-community
+gunicorn
