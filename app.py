@@ -11,8 +11,8 @@ import io
 app = Flask(__name__)
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyBLmfhJ99NpP53iVCM_wL0DHQ1fob6PVVs"
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+GEMINI_API_KEY = 
+GEMINI_URL = 
 
 # Initialize sentence transformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
